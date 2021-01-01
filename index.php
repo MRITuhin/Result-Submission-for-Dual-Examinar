@@ -22,17 +22,19 @@
             <div class="row">
                 <div class="col-md-2">
                     <form action="login.php" method="post">
-                        <button class="btn">Login</button>
+                        <button class="btn btn-primary" type="submit">Login</button>
                     </form>
                 </div>
+                <div class="col-md-1"></div>
                 <div class="col-md-3">
-                     <form action="/ClassRoutine/RunningSemester.php" method="post">
-                        <button class="btn">Register</button>
+                     <form action="register.php" method="post">
+                        <button class="btn btn-primary">Register</button>
                     </form>
                 </div>
+                <div class="col-md-1"></div>
                 <div class="col-md-3">
                      <form action="/ClassRoutine/ClassRooms.php" method="post">
-                        <button class="btn">Show Result</button>
+                        <button class="btn btn-primary">Show Result</button>
                     </form>
                 </div>
             </div>
