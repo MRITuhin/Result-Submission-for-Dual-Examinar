@@ -3,3 +3,5 @@
 - Teacher will submit Class Test (40) and Final (60) marks
 - The result will be generated based on the average of two teachers' marks
 - If 20% marks deviation has been found, the result will not generated.
+
+Video link: https://www.youtube.com/watch?v=eE88zC9pbxg
