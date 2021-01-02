@@ -33,7 +33,7 @@
                 </div>
                 <div class="col-md-1"></div>
                 <div class="col-md-3">
-                     <form action="/ClassRoutine/ClassRooms.php" method="post">
+                     <form action="result.php" method="post">
                         <button class="btn btn-primary">Show Result</button>
                     </form>
                 </div>
